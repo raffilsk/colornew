@@ -8,7 +8,6 @@ padding-top: 2rem;
 align-items: center;
 margin: 0 auto;
 
-
 .alignContent{
     display: flex;
     column-gap: 1rem;
